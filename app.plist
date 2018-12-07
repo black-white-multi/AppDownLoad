@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.blackwhite.fun:8080/rich.ipa</string>
+					<string>http://oss.blackwhite.fun/ipa/rich.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
